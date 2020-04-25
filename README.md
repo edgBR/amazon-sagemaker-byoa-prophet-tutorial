@@ -1,13 +1,8 @@
-## My Project
 
-TODO: Fill this README out!
+# BYOA Tutorial - Prophet Forecasting en Sagemaker
+Este tutorial muestra como integrar algoritmos propios a Amazon Sagemaker. 
+Vamos a recorrer el camino para armar un pipeline de inferencia sobre el algoritmo Prophet para series de tiempo. 
+El algoritmo se instala en un container de docker y luego nos sirve para hacer entrenamientos del modelo e inferencias en un endpoint.
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
-
+Empeza con el archivo:
+https://github.com/mboaglio/sagemaker-byoa-prophet-tutorial/blob/master/byoa-tutorial.ipynb
