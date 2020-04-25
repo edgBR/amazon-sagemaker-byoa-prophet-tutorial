@@ -8,8 +8,7 @@ Vamos a recorrer el camino para armar un pipeline de inferencia sobre el algorit
 El algoritmo se instala en un container de docker y luego nos sirve para hacer entrenamientos del modelo e inferencias en un endpoint.
 
 Empieza con el archivo:
-https://github.com/aws-samples/sagemaker-byoa-prophet-tutorial/blob/master/byoa-tutorial.ipynb
-
+https://github.com/aws-samples/amazon-sagemaker-byoa-prophet-tutorial/blob/master/byoa-tutorial.ipynb
 
 
 ## Licencia
